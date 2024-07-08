@@ -10,14 +10,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishuva v s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishuva v s" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://codepen.io/Vishuva-Kamalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishuva-v-s-7a8790202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishuvakamalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishuva v s" height="30" width="40" /></a>
 <a href="https://fb.com/vishuva kamalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishuva kamalesh" height="30" width="40" /></a>
 <a href="https://instagram.com/vishuva_kamalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishuva_kamalesh" height="30" width="40" /></a>
-<a href="https://medium.com/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vishuva v s" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishuva v s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishuva v s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://medium.com/@vishuvakamalesh2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishuva_v_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishuva v s" height="30" width="40" /></a>
+<a href="https://hackerrank.com/vishuva%20v%20s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishuva v s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishuva v s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishuva v s" height="30" width="40" /></a>
 </p>
 
